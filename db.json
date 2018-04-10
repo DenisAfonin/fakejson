@@ -1,5 +1,5 @@
 {
-[
+"actors" : [
   {
     "id": 1,
     "firstName": "Jan",
@@ -39,6 +39,14 @@
     "dateOfBirth": "10.10.1910 18:00",
     "company": "Chilid",
     "note": 77
+  },
+  {
+    "id": 6,
+    "firstName": "Maryla",
+    "lastName": "Rodowicz",
+    "dateOfBirth": "29.02.1936 11:35",
+    "company": "XSolve",
+    "note": 8
   }
 ]
 }
